@@ -2,7 +2,7 @@ import axios from "axios"
 import queryString from "query-string"
 
 
-const baseURL="https://kpr-movies-mernapp.vercel.app/api/v1/"
+const baseURL="https://mern-api-url.vercel.app/api/v1/"
 
 // kpr-movies-mernapp.vercel.app
 
